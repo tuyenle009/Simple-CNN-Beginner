@@ -1,4 +1,4 @@
-# CNN Model Intro with Fashion MNIST Implementation
+# CNN Model Intro
 ### Brief Introduction
 This notebook will cover the following two major topics :
 
